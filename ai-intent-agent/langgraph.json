@@ -1,0 +1,10 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "intent_agent": {
+      "path": "src.studio.intent_graph:graph",
+      "description": "intent classification agent"
+    }
+  },
+  "env": ".env_studio"
+}
